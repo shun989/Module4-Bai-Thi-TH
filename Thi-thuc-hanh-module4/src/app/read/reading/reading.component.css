@@ -1,0 +1,15 @@
+.width{
+    max-width: 850px;
+}
+
+tr a{
+  margin-left: 10px;
+}
+.add-book{
+  display: flex;
+  justify-content: space-between;
+}
+.input-value{
+  width: 400px;
+  padding-bottom: 6px;
+}
